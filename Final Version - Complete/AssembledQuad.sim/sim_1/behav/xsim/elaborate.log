@@ -1,0 +1,23 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Programs/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 58d7808f1fa744fab74207e7b3fdc073 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 65 for port 'inA' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v:54]
+WARNING: [VRFC 10-3091] actual bit length 65 differs from formal bit length 1 for port 'freq' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v:57]
+WARNING: [VRFC 10-3091] actual bit length 130 differs from formal bit length 131 for port 'outAB' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v:65]
+WARNING: [VRFC 10-3091] actual bit length 130 differs from formal bit length 129 for port 'inA' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v:67]
+WARNING: [VRFC 10-3091] actual bit length 130 differs from formal bit length 131 for port 'outAB' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v:66]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.freqTrans
+Compiling module xil_defaultlib.sinemodule
+Compiling module xil_defaultlib.SignalGen
+Compiling module xil_defaultlib.multiVer
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav

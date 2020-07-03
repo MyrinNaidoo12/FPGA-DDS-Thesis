@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/new/SignalGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignalGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/new/add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/new/freqTrans.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module freqTrans
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/multiVer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiVer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/sinemodule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sinemodule
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sinemodule
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sinemodule' [D:/Documents/Engineering/Year6/EEE4022F/Code/AssembledQuad/AssembledQuad.srcs/sources_1/imports/UnitTesting/sinemodule.v:2]
+INFO: [VRFC 10-311] analyzing module testbench
